@@ -12,7 +12,7 @@ export default function App() {
     <div className="portfolio">
       <header className="header">
         <div className="header-content">
-          <h1 className="logo">Andrei</h1>
+          <h1 className="logo">Von</h1>
           <nav className="nav">
             <button
               className={`nav-btn ${activeSection === 'about' ? 'active' : ''}`}
